@@ -13,7 +13,7 @@ namespace DemoProject
         /// </summary>
         public ExchangeIdentifier()
           : base("ExchangeIdentifier", "ExchangeIdentifier",
-              "Description",
+              "This is Exechange Identifier to identify the Data",
               "DataExchange", "DataManagement")
         {
 
